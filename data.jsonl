@@ -1,0 +1,7 @@
+{"text": "I love eating pizza with pineapple and ham.", "phrases": [{"start": 2, "end": 3, "type": "A"}, {"start": 5, "end": 7, "type": "B"}]}
+{"text": "She enjoys watching movies and playing video games.", "phrases": [{"start": 2, "end": 3, "type": "A"}, {"start": 5, "end": 6, "type": "A"}, {"start": 7, "end": 9, "type": "B"}]}
+{"text": "My favorite hobbies are reading books and playing the guitar.", "phrases": [{"start": 4, "end": 5, "type": "B"}, {"start": 6, "end": 7, "type": "A"}, {"start": 9, "end": 11, "type": "B"}]}
+{"text": "The quick brown fox jumps over the lazy dog.", "phrases": [{"start": 1, "end": 3, "type": "A"}, {"start": 4, "end": 4, "type": "B"}, {"start": 6, "end": 8, "type": "A"}]}
+{"text": "John likes running in the park and swimming in the pool.", "phrases": [{"start": 2, "end": 3, "type": "A"}, {"start": 5, "end": 7, "type": "B"}, {"start": 9, "end": 11, "type": "B"}]}
+{"text": "They often go hiking in the mountains or diving in the sea.", "phrases": [{"start": 3, "end": 4, "type": "A"}, {"start": 6, "end": 8, "type": "B"}, {"start": 10, "end": 12, "type": "B"}]}
+{"text": "Many students love reading fiction or painting landscapes.", "phrases": [{"start": 2, "end": 3, "type": "A"}, {"start": 5, "end": 6, "type": "A"}, {"start": 8, "end": 9, "type": "B"}]}
